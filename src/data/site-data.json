@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "title": "Living a \n Beautiful Mark.",
+    "subtitle": "High-performance liquid coatings for the Zimbabwean climate."
+  },
+  "contact": {
+    "office": "Msasa Industrial Park, Harare",
+    "email": "specifications@liquidcoating.co.zw",
+    "whatsapp": "263770000000"
+  },
+  "projects": [
+    {
+      "id": "harare-hub",
+      "title": "Harare Industrial Hub",
+      "location": "Msasa, Zimbabwe",
+      "system": "20-Year Legacy Flooring",
+      "description": "4,000sqm of heavy-duty epoxy coating.",
+      "year": "2025",
+      "mainImage": "/epoxy-ER.jpeg",
+      "gallery": ["/epoxy-ER.jpeg", "/detail-1.jpg", "/detail-2.jpg"]
+    }
+  ]
+}
