@@ -19,26 +19,20 @@ export default function FloatingContact() {
     {
       name: "WhatsApp",
       icon: <MessageCircle size={24} />,
-      href: "https://wa.me/263770000000",
+      href: "https://wa.me/263772422035",
       color: "text-[#25D366]",
     },
     {
       name: "Direct Call",
       icon: <Phone size={24} />,
-      href: "tel:+263770000000",
+      href: "tel:+263772422035",
       color: "text-liquid-primary",
     },
     {
       name: "Facebook",
       icon: <Facebook size={24} />,
-      href: "#",
+      href: "https://www.facebook.com/profile.php?id=61575353097750",
       color: "text-[#1877F2]",
-    },
-    {
-      name: "Instagram",
-      icon: <Instagram size={24} />,
-      href: "#",
-      color: "text-[#ee2a7b]",
     },
   ];
 

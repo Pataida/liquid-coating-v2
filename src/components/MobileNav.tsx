@@ -16,9 +16,9 @@ export default function MobileNav() {
   }, [isOpen]);
 
   const navLinks = [
-    { name: "Systems", href: "/systems" },
+    { name: "Services", href: "/services" },
     { name: "Lifecycle", href: "/lifecycle" },
-    { name: "Shop", href: "/shop" },
+    { name: "Products", href: "/products" },
     { name: "Projects", href: "/projects" },
     { name: "About", href: "/about" },
     { name: "Contact", href: "/contact" },
