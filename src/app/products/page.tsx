@@ -437,6 +437,12 @@ export default function ProductsPage() {
             <h1 className="text-5xl md:text-7xl font-black text-liquid-text tracking-tighter leading-none mb-6">
               Product <br /> Portfolio.
             </h1>
+            <h3 className="text-2xl md:text-7xl font-black text-liquid-text tracking-tighter leading-none mb-6">
+              Liquid Coating are the official distributors of SIM and SAVETO in
+              Malawi, Zambia and Zimabwe, offering a comprehensive range of
+              waterproofing and technical mortar solutions for construction
+              professionals.
+            </h3>
             <p className="text-gray-500 max-w-lg font-medium">
               Explore the full range of SIM and SAVETO engineering solutions.
             </p>
